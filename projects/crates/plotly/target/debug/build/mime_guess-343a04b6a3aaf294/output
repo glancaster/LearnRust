@@ -1,0 +1,1 @@
+cargo:rustc-env=MIME_TYPES_GENERATED_PATH=C:\Users\Graham\Github\LearnRust\projects\crates\plotly\target\debug\build\mime_guess-343a04b6a3aaf294\out\mime_types_generated.rs
