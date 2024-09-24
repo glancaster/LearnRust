@@ -1,10 +1,12 @@
-C:\Users\Graham\Github\LearnRust\projects\hecto\target\debug\deps\libhecto-44c76bf798ff5e1b.rmeta: src/main.rs src\editor.rs src\editor\terminal.rs Cargo.toml
+C:\Users\Graham\Github\LearnRust\projects\hecto\target\debug\deps\libhecto-44c76bf798ff5e1b.rmeta: src/main.rs src\editor.rs src\editor\terminal.rs src\editor\view.rs src\editor\view\buffer.rs Cargo.toml
 
-C:\Users\Graham\Github\LearnRust\projects\hecto\target\debug\deps\hecto-44c76bf798ff5e1b.d: src/main.rs src\editor.rs src\editor\terminal.rs Cargo.toml
+C:\Users\Graham\Github\LearnRust\projects\hecto\target\debug\deps\hecto-44c76bf798ff5e1b.d: src/main.rs src\editor.rs src\editor\terminal.rs src\editor\view.rs src\editor\view\buffer.rs Cargo.toml
 
 src/main.rs:
 src\editor.rs:
 src\editor\terminal.rs:
+src\editor\view.rs:
+src\editor\view\buffer.rs:
 Cargo.toml:
 
 # env-dep:CARGO_PKG_NAME=hecto
